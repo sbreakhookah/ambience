@@ -1,26 +1,31 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
+## Synopsis
 
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
-## Getting Started
+## Code Example
 
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
-## Bugs and Issues
+## Motivation
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
 
-## Creator
+## Installation
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Partner at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+Provide code examples and explanations of how to get the project.
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+## API Reference
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
 
-## Copyright and License
+## Tests
 
-Copyright 2014 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+Describe and show how to run the tests with code examples.
+
+## Contributors
+
+Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+
+## License
+
+A short snippet describing the license (MIT, Apache, etc.)
