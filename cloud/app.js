@@ -1,4 +1,4 @@
-
+//app.js
 // These two lines are required to initialize Express in Cloud Code.
 require('cloud/app.js');
 var express = require('express');

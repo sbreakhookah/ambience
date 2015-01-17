@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Website": {
+            "applicationId": "JaMBG9Kzp83NuH6Mfv43Nq28AKNvB1ohiTMSwBGI", 
+            "masterKey": "VWxzXKDiybt8gctSHJIOyy8NN7T0GN84t7HisLuX"
+        }, 
+        "_default": {
+            "link": "Website"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.3"
+    }
+}
